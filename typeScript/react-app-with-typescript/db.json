@@ -1,0 +1,27 @@
+{
+    "subs": [
+        {
+            "nick": "dapelu",
+            "months": 3,
+            "profileUrl": "https://i.pravatar.cc/150?u=dapelu",
+            "description": "Dapelu hace de moderador a veces"
+        },
+        {
+            "nick": "sergio_serrano",
+            "months": 7,
+            "profileUrl": "https://i.pravatar.cc/150?u=sergio_serrano"
+        },
+        {
+            "nick": "juanito",
+            "months": 9,
+            "profileUrl": "https://i.pravatar.cc/150?u=juanito",
+            "description": "juanito es juanito"
+        },
+        {
+            "nick": "diego",
+            "months": 2,
+            "profileUrl": "https://i.pravatar.cc/150?u=diego",
+            "description": "diego es gei"
+        }
+    ]
+}

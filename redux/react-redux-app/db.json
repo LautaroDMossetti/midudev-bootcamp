@@ -1,0 +1,34 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "bienvenidos a la miduclase",
+      "important": true
+    },
+    {
+      "content": "gracias por venir a la clase en un domingo",
+      "important": false,
+      "id": 2
+    },
+    {
+      "content": "enviado desde el back-end",
+      "important": false,
+      "id": 3
+    },
+    {
+      "content": "probando",
+      "important": true,
+      "id": 4
+    },
+    {
+      "content": "nota nueva",
+      "important": false,
+      "id": 5
+    },
+    {
+      "content": "nuevo createNewNote",
+      "important": true,
+      "id": 6
+    }
+  ]
+}
